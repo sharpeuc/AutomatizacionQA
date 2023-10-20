@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testSuite.Prueba" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-19T21:28:03" hostname="LAPTOP-PI6J3TIU" time="10.342">
+<testsuite name="testSuite.Prueba" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-20T12:01:48" hostname="LAPTOP-PI6J3TIU" time="10.281">
   <properties/>
-  <testcase name="pruebaLogin" classname="testSuite.Prueba" time="10.342"/>
+  <testcase name="pruebaLogin" classname="testSuite.Prueba" time="10.281"/>
   <system-out><![CDATA[[PdfBciReport] closePDF
 [PdfBciReport] createTitlePage
-File: PB7IXRMQPXU8PT7 Not found
+File: R4XZKLTYIVDPEE5 Not found
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
